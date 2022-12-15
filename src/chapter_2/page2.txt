@@ -1,4 +1,4 @@
 
 page 2 of chapter 2
 
-more text, so I have an excuse to commit and push
+more text, so I have an excuse to commit and push :)
