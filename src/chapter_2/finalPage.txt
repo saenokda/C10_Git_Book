@@ -3,3 +3,5 @@ push -> remote repository
 
 fetch <- from remote to local (only info)
 update <- update local from remote
+
+fun times
